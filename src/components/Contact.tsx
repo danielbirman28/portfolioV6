@@ -22,10 +22,6 @@ export default function Contact() {
               <span className="contact__label">Email</span>
               <span className="contact__value">{profile.emailAlt}</span>
             </a>
-            <a href={`tel:${profile.phone.replace(/\s/g, "")}`} className="contact__link">
-              <span className="contact__label">Phone</span>
-              <span className="contact__value">{profile.phone}</span>
-            </a>
             <a
               href={profile.linkedin}
               target="_blank"

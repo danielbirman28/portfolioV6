@@ -5,7 +5,6 @@ export const profile = {
   location: "San Diego, California",
   email: "dbirman28@gmail.com",
   emailAlt: "dbirman@ucsd.edu",
-  phone: "+1 (619) 922-9772",
   linkedin: "https://www.linkedin.com/in/daniel-birman/",
   github: "https://github.com/danielbirman28",
   resume: "/2026_Daniel_Birman_resume.pdf",
